@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import at from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-at@deno/mod.js';
+import at from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-at@v0.2.2-deno/mod.js';
 ```
 
 #### at( x, index )
@@ -113,7 +113,7 @@ The function accepts the following arguments:
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import at from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-at@deno/mod.js';
+import at from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-at@v0.2.2-deno/mod.js';
 
 // Define an array:
 var x = discreteUniform( 10, -100, 100 );
