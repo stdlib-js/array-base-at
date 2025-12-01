@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-12-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`db85f69`](https://github.com/stdlib-js/stdlib/commit/db85f697acea61131500a6dc823835b19d76bdc7) - **docs:** improve doctests for complex number instances in `array/base/at` [(#8654)](https://github.com/stdlib-js/stdlib/pull/8654) _(by Aryan kumar, Athan Reines)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
 
@@ -25,8 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
